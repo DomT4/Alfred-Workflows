@@ -1,12 +1,3 @@
-Alfred-Workflows
-================
-
-My Alfred Workflows and Themes.
-
-Anything uploaded here is almost definitely still a work in progress, and as such will be updated pretty frequently.
-
-I'll probably also submit these to [Packal](http://www.packal.org/). The license to everything here is a permissive, open-source license and everyone is free to contribute, use the tools for their own use, redistribute them, and so on.
-
 Packages:
 ================
 
@@ -25,4 +16,3 @@ Obviously, this makes installing Homebrew & updating your $PATH a prerequisite t
 * dpkg create - Creates a .deb file from the "package" folder on your desktop. Also automatically removes all .DS_Store (OS X system junk) files from that package before creation.
 
 **Developer Tools.alfredworkflow** - Opens a number of popular development tools for OS X using configurable hotkeys. Super-simple alfred workflow.
-
